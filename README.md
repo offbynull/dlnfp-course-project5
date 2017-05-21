@@ -1,2 +1,2 @@
-# dlnfp-course-project5
-DLNFP Project 5 - Face generation using DCGANs (deep convolutional generative adversarial models)
+# Deep Learning Nanodegree Foundations -- Project 5
+Generate faces by training a DCGAN (deep convolutional generative adversarial model) on the CelebA dataset.
